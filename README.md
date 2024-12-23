@@ -37,7 +37,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 Developed By: CHARUKESH S
 
-Register No: 
+Register No: 212224230044
 ```
 module full_adder (A,B,Cin,Sum,Cout);
     input A, B, Cin;      
