@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To study and verify the truth table of logic gates in Quartus II using Verilog programming.
+To study and verify the ripple carry adder in Quartus II using Verilog programming.
 
 **EQUIPTMENTS REQUIRED:**
 
@@ -28,7 +28,8 @@ A full adder adds three inputs: two bits A and B, and a carry-in Cin. It produce
 
 **EXAMPLE:**
 
-![image](https://github.com/user-attachments/assets/9c58dc1b-d71e-47e3-b5c5-9ad6face6ebc)
+![image](https://github.com/user-attachments/assets/72736fcf-c368-416c-a3b5-b817af563db1)
+
 
 **PROGRAM:**
 
@@ -73,4 +74,4 @@ module RIPCAR(A,B,Cin,Sum,Cout);
 
 **RESULT:**
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+the ripple carry adder is verified using Verilog programming.
