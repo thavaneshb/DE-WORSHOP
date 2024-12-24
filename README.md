@@ -35,9 +35,9 @@ A full adder adds three inputs: two bits A and B, and a carry-in Cin. It produce
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
-Developed By: CHARUKESH S
+Developed By:B.thavanesh 
 
-Register No: 212224230044
+Register No: 212224040352
 ```
 module full_adder (A,B,Cin,Sum,Cout);
     input A, B, Cin;      
